@@ -1,0 +1,11 @@
+// files, logs swap files, temp files, others
+*.log
+*.swp
+*.swo
+*.un~
+
+// directories
+dist
+node_modules
+.DS_Store
+
